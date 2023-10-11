@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Science Student
 --------------------
 
-Welcome to my little corner of the internet. I'm Abril, and I've been diving deep into the world of Data Science during my student years. This portfolio? Think of it as a mash-up of all the cool stuff I've been working on and learning about. You'll stumble upon a mix of projects here, each one shedding light on a different part of the data realm. Some might be raw ideas I wanted to test out, while others might be more polished pieces from my coursework or personal challenges. The one thing they all have in common? A curious 22-year-old trying to crack the data code behind them. If you're into data, or just nosy about what a Data Science student gets up to, feel free to take a look around. And if something catches your eye or you think we could create something awesome together, don't hesitate to reach out!
+Welcome to my little corner of the internet. I'm Abril, and I've been diving deep into the world of Data Science during my student years. This portfolio? Think of it as a mash-up of all the cool stuff I've been working on and learning about. 
+
+You'll stumble upon a mix of projects here, each one shedding light on a different part of the data realm. Some might be raw ideas I wanted to test out, while others might be more polished pieces from my coursework or personal challenges. The one thing they all have in common? A curious 22-year-old trying to crack the data code behind them.
+
+If you're into data, or just nosy about what a Data Science student gets up to, feel free to take a look around. And if something catches your eye or you think we could create something awesome together, don't hesitate to reach out!
 
 *   🌍  I'm based in Buenos Aires, Argentina.
 *   🖥️  See my portfolio at [Portfolio](http://abrilnoguera.github.io)
