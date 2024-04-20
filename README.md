@@ -61,7 +61,7 @@
 
 <br clear="both">
 
-![snake animation](https://github.com/abrilnoguera/abrilnoguera/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/abrilnoguera/abrilnoguera/blob/output/github-contribution-grid-snake-dark.svg)
 
 ###
 
