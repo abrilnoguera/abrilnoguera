@@ -66,7 +66,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/abrilnoguera/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/abrilnoguera/count.svg?" style="filter: hue-rotate(330deg);" />
 </div>
 
 ###
